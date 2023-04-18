@@ -1,0 +1,11 @@
+{
+    "name": "Meu conversor",
+    "short_name": "Conversor U$",
+    "description": "Converter moedas",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "lang": "pt-BR"
+}
